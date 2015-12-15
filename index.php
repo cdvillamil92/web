@@ -6,3 +6,4 @@
 	echo 'oksdoasdashdhasgdahsgdjasgdjhasgdahjsdghasjd';
 	
 ?>
+<a href="index2.php"></a>
