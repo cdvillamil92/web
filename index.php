@@ -6,4 +6,4 @@
 	echo 'oksdoasdashdhasgdahsgdjasgdjhasgdahjsdghasjd';
 	
 ?>
-<a href="index2.php"></a>
+<a href="index2.php">ir</a>
