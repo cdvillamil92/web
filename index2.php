@@ -1,4 +1,4 @@
 <?php
-	echo 'quedo al pelo';
+	echo 'Firmes!';
 	
 ?>
